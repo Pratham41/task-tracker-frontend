@@ -6,8 +6,8 @@ import Home from './pages/Home';
 const App = () => {
   return (
     <div className="App">
-      <Home />
       <Header />
+      <Home />
       <Footer />      
     </div>
   );
